@@ -1,0 +1,21 @@
+-------------------------------------------------
+modules:
+
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+
+
+--------------------------------------------
+
+keycodes for the package activation:
+
+1.conda create -p venv python==3.10 -y
+
+2.conda activate venv/
+
+
+
+
